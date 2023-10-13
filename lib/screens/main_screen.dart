@@ -54,8 +54,8 @@ class _MainScreenState extends State<MainScreen> {
             label: "2",
           ),
           BottomNavigationBarItem(
-            icon: Icon(FontAwesomeIcons.ellipsisV),
-            label: "2",
+            icon: Icon(Icons.more),
+            label: "3",
           ),
         ],
       ),
